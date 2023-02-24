@@ -1,0 +1,11 @@
+body{
+    background-color: #181818;
+    font-family: Helvetica, Arial;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+
+    padding: 2%;
+}
+
